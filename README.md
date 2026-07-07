@@ -8,7 +8,7 @@
 
 ## Overview
 
-This paper presents a case study of a production multi-agent research pipeline used to conduct deep, collaborative research across complex topics. The system implements a multi-layer validation methodology combining per-agent internal consistency checks, cross-agent adversarial review, iterative refinement, and cross-topic pattern detection.
+This paper presents a case study of a production multi-agent research pipeline used to conduct deep, collaborative research across complex topics. The system implements a 5-layer validation methodology combining per-agent internal consistency checks, cross-agent adversarial review, iterative refinement, independent final verification, and cross-topic meta-validation.
 
 ## Contents
 
@@ -17,10 +17,11 @@ This paper presents a case study of a production multi-agent research pipeline u
 | `00-abstract.md` | Paper abstract and key contributions |
 | `01-introduction.md` | Motivation, the gap in multi-agent safety, and scope |
 | `02-system-architecture.md` | Pipeline architecture: orchestrator, agents, rounds, tools |
-| `03-multi-layer-validation.md` | **Core contribution**: 4-layer validation methodology |
+| `03-multi-layer-validation.md` | **Core contribution**: 5-layer validation methodology |
 | `04-research-findings.md` | Findings from 3 research topics with safety implications |
 | `05-safety-implications.md` | Synthesized safety patterns and recommendations |
-| `06-open-problems.md` | 7 unsolved problems in multi-agent safety |
+| `06-policy-recommendations.md` | Policy framework, audit checklist, minimum safety requirements |
+| `07-open-problems.md` | 8 unsolved problems in multi-agent safety |
 | `07-conclusion.md` | Summary and call to action |
 | `references.md` | Bibliography |
 | `appendix-skill-prompts.md` | Reproducible agent skill prompts (sanitized) |
@@ -28,9 +29,10 @@ This paper presents a case study of a production multi-agent research pipeline u
 ## Key Contributions
 
 1. **A practical architecture** for multi-agent research with human-in-the-loop orchestration
-2. **A multi-layer validation methodology** that serves as both research tool and safety mechanism
+2. **A five-layer validation methodology** that serves as both research tool and safety mechanism
 3. **A catalog of safety implications** derived from real research deployments
-4. **Eight open problems** requiring further AI safety research
+4. **A policy framework and audit checklist** for organizations deploying multi-agent systems
+5. **Eight open problems** requiring further AI safety research
 
 ## How to Cite
 

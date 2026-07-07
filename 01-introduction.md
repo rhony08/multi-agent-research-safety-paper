@@ -32,8 +32,9 @@ This paper documents my multi-agent research system as a case study in practical
 - **Section 2**: The system architecture, including agent roles, round structure, and tool integration
 - **Section 3**: The multi-layer validation methodology that serves as both research approach and safety mechanism
 - **Section 4**: Findings from three research topics that expose safety implications for multi-agent systems
-- **Section 5**: A synthesis of safety insights and recommended patterns
-- **Section 6**: Open problems that remain unsolved
+- **Section 5**: Safety implications and recommended patterns
+- **Section 6**: Policy recommendations and safety framework
+- **Section 7**: Open problems that remain unsolved
 
 ## 1.4 Scope and Limitations
 

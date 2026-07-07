@@ -78,9 +78,9 @@ My experience confirms that human-in-the-loop remains essential, but identifies 
 | **Confidence calibration** | Medium | High (domain expertise) |
 | **Safety judgment** | Poor | Essential |
 
-## 5.4 From This Paper to Safer Systems
+## 5.4 From Safety Patterns to Policy
 
-I identify three directions for making multi-agent systems safer:
+The safety patterns in this section translate directly into policy recommendations and a practical audit framework in Section 6. I identify three directions for making multi-agent systems safer:
 
 1. **Standardized cross-agent message schemas** including mandatory confidence ratings and source citations, analogous to how HTTP headers carry metadata separate from content
 
