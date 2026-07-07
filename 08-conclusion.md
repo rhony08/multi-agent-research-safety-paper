@@ -1,4 +1,4 @@
-# 7. Conclusion
+# 8. Conclusion
 
 I presented a case study of a production multi-agent research pipeline used for deep, collaborative research across complex topics. The system's multi-layer validation methodology combines per-agent internal consistency checks, cross-agent adversarial review, iterative refinement, and cross-topic pattern detection. Together these produce higher-confidence outputs than single-agent or single-round approaches.
 

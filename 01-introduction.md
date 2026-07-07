@@ -35,6 +35,7 @@ This paper documents my multi-agent research system as a case study in practical
 - **Section 5**: Safety implications and recommended patterns
 - **Section 6**: Policy recommendations and safety framework
 - **Section 7**: Open problems that remain unsolved
+- **Section 8**: Conclusion and call to action
 
 ## 1.4 Scope and Limitations
 

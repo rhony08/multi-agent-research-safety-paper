@@ -22,7 +22,7 @@ This paper presents a case study of a production multi-agent research pipeline u
 | `05-safety-implications.md` | Synthesized safety patterns and recommendations |
 | `06-policy-recommendations.md` | Policy framework, audit checklist, minimum safety requirements |
 | `07-open-problems.md` | 8 unsolved problems in multi-agent safety |
-| `07-conclusion.md` | Summary and call to action |
+| `08-conclusion.md` | Summary and call to action |
 | `references.md` | Bibliography |
 | `appendix-skill-prompts.md` | Reproducible agent skill prompts (sanitized) |
 
